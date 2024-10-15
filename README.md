@@ -1,2 +1,2 @@
-# Seif-Tharwat
-Aboud me
+#My name is Seif Tharwat
+This is the about me text.
